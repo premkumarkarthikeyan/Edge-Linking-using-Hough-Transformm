@@ -25,8 +25,8 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 
 ## Program 
 
-### Developed by : DINESH KUMAR R
-### Reg.No. 212222110010
+### Developed by : PREM KUMAR K
+### Reg.No. 212222230111
 
 ### Image Processing
 
